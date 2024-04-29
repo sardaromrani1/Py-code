@@ -1,0 +1,1 @@
+This code creates a simple Tkinter window with a "Browse" button. When clicked, the button opens a file dialog allowing the user to select an Excel file. Once selected, the file is read using 'pandas.read_excel()' function and displayed in the console for demonstration purposes.
